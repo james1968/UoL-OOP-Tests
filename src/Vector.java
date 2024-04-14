@@ -1,5 +1,3 @@
-package Test.src;
-
 class Vector {
     private int x;
     private int y;
@@ -62,7 +60,7 @@ class Vector {
     }
 
     public String toString() {
-        return "(" + this.getX() + ", " + this.getY() + ")";
+        return "(" + this.getX() + "," + this.getY() + ")";
     }
 
 

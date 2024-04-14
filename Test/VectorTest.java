@@ -1,9 +1,6 @@
-package Test.src;
-
 import org.junit.Test;
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
-
 public class VectorTest {
     Vector v = new Vector(1, 2);
     @Test

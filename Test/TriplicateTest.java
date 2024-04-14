@@ -1,5 +1,3 @@
-package Test.src;
-
 import org.junit.Test;
 
 import java.util.ArrayList;

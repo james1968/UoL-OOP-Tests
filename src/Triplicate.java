@@ -1,5 +1,3 @@
-package Test.src;
-
 import java.util.ArrayList;
 
 public class Triplicate {

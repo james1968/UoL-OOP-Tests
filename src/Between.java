@@ -1,5 +1,3 @@
-package Test.src;
-
 public class Between {
     public static String between( int a, int b )
     {
